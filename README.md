@@ -5,7 +5,7 @@ It is developed as a mini-project for the Python Programming course in BTech CSE
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project reads student marks from a CSV file, processes the data using Pandas and NumPy, and produces:
 
@@ -20,7 +20,7 @@ The entire project is implemented in a Jupyter Notebook (`.ipynb`) using Object-
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python 3.x**
 - **Pandas** – data handling and analysis  
@@ -30,12 +30,12 @@ The entire project is implemented in a Jupyter Notebook (`.ipynb`) using Object-
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open the project folder in **VS Code** or **Jupyter Notebook**.  
 2. Open `student_performance_analyzer.ipynb`.  
@@ -47,7 +47,7 @@ The entire project is implemented in a Jupyter Notebook (`.ipynb`) using Object-
 
 ---
 
-## 🧩 Main Features
+##  Main Features
 
 ### 1. Student Class (OOP)
 - Stores individual student details  
@@ -66,7 +66,7 @@ The entire project is implemented in a Jupyter Notebook (`.ipynb`) using Object-
 
 ---
 
-## 📊 Sample Outputs
+##  Sample Outputs
 
 - Class average, highest and lowest average marks  
 - Subject-wise mean, maximum, and minimum marks  
@@ -77,7 +77,7 @@ The entire project is implemented in a Jupyter Notebook (`.ipynb`) using Object-
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -89,7 +89,7 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+##  Author
 
 **PRASHANT LONDHE**  
 BTech CSE (AI/ML), Sanjivani University  
